@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Bárány_Farkas.Properties
+namespace Barany_Farkas.Properties
 {
 
 

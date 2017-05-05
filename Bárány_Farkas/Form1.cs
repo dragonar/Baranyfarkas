@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Bárány_Farkas
+namespace Barany_Farkas
 {
     public partial class Form1 : Form
     {
